@@ -1,0 +1,3 @@
+set PAGE_ACCESS_PASSWORD=19082005
+
+npm run dev
