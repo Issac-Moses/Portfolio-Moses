@@ -1,8 +1,8 @@
 # **Build your portfolio with Once UI's Magic Portfolio**
 
-View the [demo here](https://demo.magic-portfolio.com).
+View the [demo here](https://issac-moses-portfolio.netlify.app/).
 
-![Magic Portfolio](public/images/cover.png)
+![Magic Portfolio](public/images/avatar.jpg)
 
 
 # **Getting started**
@@ -41,8 +41,6 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 # **Features**
 
-## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
 
 ## **SEO**
 - Automatic open-graph and X image generation with next/og
