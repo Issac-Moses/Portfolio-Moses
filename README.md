@@ -2,7 +2,7 @@
 
 View the [demo here](https://issac-moses-portfolio.netlify.app/).
 
-![Magic Portfolio](public/images/avatar.jpg)
+![Magic Portfolio](public/images/Portfolio.mp4)
 
 
 # **Getting started**
