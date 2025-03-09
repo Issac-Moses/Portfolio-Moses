@@ -2,7 +2,6 @@
 
 View the [demo here](https://issac-moses-portfolio.netlify.app/).
 
-![Magic Portfolio](public/images/Portfolio.mp4)
 
 
 # **Getting started**
@@ -11,7 +10,7 @@ Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](http
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://github.com/Issac-Moses/Portfolio-Moses.git
 ```
 
 **2. Install dependencies**
@@ -49,7 +48,7 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+- Endless customization options through 
 
 ## **Content**
 - Render sections conditionally based on the content file
@@ -65,15 +64,15 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 Connect with us on Threads or LinkedIn.
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
-Zsofia Komaromi: [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+Issac Moses D: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)  
 
-Localization added by [François Hernandez](https://github.com/francoishernandez)
+
+
 
 # **Get involved**
 
-- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your portfolio with us!
-- Report a [bug](https://github.com/once-ui-system/magic-portfolio/issues/new?labels=bug&template=bug_report.md).
+- Join the [Moses Projects on Discord](https://discord.gg/NznvqNdq) and share your portfolio with us!
+
 
 # **License**
 
